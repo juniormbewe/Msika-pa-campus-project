@@ -1,2 +1,2 @@
-web: gunicorn
-app: app
+web: gunicorn && streamlit run run.py
+
