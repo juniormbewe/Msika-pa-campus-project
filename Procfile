@@ -1,2 +1,2 @@
 web: gunicorn
-app: appgit
+app: app
