@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath app runserver
+web: gunicorn --pythonpath app run
 
