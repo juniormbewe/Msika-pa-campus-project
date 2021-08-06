@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath app run
+web: gunicorn && streamlit run run.py
 
